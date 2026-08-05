@@ -1,2 +1,1 @@
-### Hi there, I'm Mert
-#### Computer Engineering student at Bilkent University
+#### Founder & CEO of Mithrandir, AI Researcher at CMU
